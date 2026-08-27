@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: hotel-booking
+
+logging:
+  level:
+    com.rupeek.hotelbooking: INFO
